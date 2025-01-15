@@ -15,7 +15,7 @@ Welcome to **Smart OCR Tool**, the ultimate solution to extract text from images
 
 ## 📦 **How to Use:**
 
-### Step 1: **Clone or Download this Bad Boy** 💻
+### Step 1: **Clone** 💻
 
 ```bash
 git clone https://github.com/sundramjha88/ocr.git
